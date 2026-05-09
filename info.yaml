@@ -1,6 +1,6 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     463401800124390401       # Set this to the ID of your Wokwi project (the number from the project's URL)
+  wokwi_id:     462755335844748289       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "Circuito Integrado Modulo de Verificacion Logica y conteo"      # Project title
   author:       "Camilo Miranda"      # Your name
   discord:      "CamiloMir2004"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
